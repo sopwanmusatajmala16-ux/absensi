@@ -1,3 +1,4 @@
+# Versi 1.1 - Coba paksa rebuild
 streamlit
 opencv-python-headless
 face_recognition
